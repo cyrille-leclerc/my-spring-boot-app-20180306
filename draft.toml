@@ -1,0 +1,7 @@
+[environments]
+  [environments.development]
+    name = "my-spring-boot-app-20180306"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch_delay = 2
